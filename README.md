@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jdanom
 - 👀 I’m interested in coding and programming software
 - 🌱 I’m currently learning web development with html css JS and React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project that will help me buildup my programming skills 
 - 📫 How to reach me ...
 
 <!---
